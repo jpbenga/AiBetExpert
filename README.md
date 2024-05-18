@@ -1,8 +1,8 @@
 # AiBetExpert
 
-# BetIntelIA
+# AiBetExpert
 
-BetIntelIA est une application innovante de paris sportifs qui utilise l'intelligence artificielle pour faciliter et améliorer la recherche de matchs intéressants sur lesquels parier. Grâce à des algorithmes avancés de traitement du langage naturel, BetIntelIA permet aux utilisateurs de trouver facilement les meilleures opportunités de paris en temps réel.
+AiBetExpert est une application innovante de paris sportifs qui utilise l'intelligence artificielle pour faciliter et améliorer la recherche de matchs intéressants sur lesquels parier. Grâce à des algorithmes avancés de traitement du langage naturel, AiBetExpert permet aux utilisateurs de trouver facilement les meilleures opportunités de paris en temps réel.
 
 ## Fonctionnalités
 
@@ -61,7 +61,7 @@ BetIntelIA est une application innovante de paris sportifs qui utilise l'intelli
     ```yaml
     spring:
       datasource:
-        url: jdbc:postgresql://localhost:5432/betintelia
+        url: jdbc:postgresql://localhost:5432/aibetexpert
         username: votre-utilisateur
         password: votre-mot-de-passe
       jpa:
